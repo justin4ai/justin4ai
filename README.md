@@ -1,6 +1,6 @@
 ### -I never slow down my pace :)
-### -Studying to be a data scientist and a programmer
-### -Work mainly on AI, ML, Big Data, Web programming
+#### -Studying to be a data scientist and a programmer
+#### -Work mainly on AI, ML, Big Data, Web programming
 
 <!--
 **AhnJunYeong0319/AhnJunYeong0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
