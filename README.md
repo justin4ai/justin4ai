@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AhnJunYeong0319)](https://github.com/anuraghazra/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=AhnJunYeong0319)](https://solved.ac/kinetic27)
