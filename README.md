@@ -1,4 +1,4 @@
-### Hi there 👋
+### I never slow down my pace :)
 
 <!--
 **AhnJunYeong0319/AhnJunYeong0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
