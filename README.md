@@ -1,8 +1,9 @@
+<style>
 .Intro {
     font-size:40px;
     text-align:center;
 }
-
+</style>
 <div class="Intro"> Junyeong Ahn (21) </div>
 
 ### -I never slow down my pace :)
