@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 
 <h2 align="center"> 💻Main Languages💻  </h2>
+<br>
+<br>
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
