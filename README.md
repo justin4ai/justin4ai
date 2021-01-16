@@ -8,6 +8,8 @@
 }
 </style>
 </head>   
+    
+<body>
 <div class="Intro"> Junyeong Ahn (21) </div>
 
     
@@ -85,3 +87,4 @@ Here are some ideas to get you started:
   <br>
 </p>
 <br>
+</body>
