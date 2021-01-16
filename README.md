@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <hr>   
 
 
-<h2 align="center"> 💻Main Languages💻  </h2>
+<h2 align="center"> 💻Main Languages💻 </h2>
 <br>
 <br>
 <p align="center">
@@ -45,3 +45,13 @@ Here are some ideas to get you started:
   <a href="https://documentation.js.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>
 </p>
+
+<h2 align="center"> ⛏Subs⛏ </h2>
+<br>
+<br>
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
+</p>
+
