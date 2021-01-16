@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhnJunYeong0319&count_bg=%23C83DC6&title_bg=%23555555&icon=actigraph.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-</p>
+</p>   
+ 
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AhnJunYeong0319&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnJunYeong0319&hide=jupyter%20notebook&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
