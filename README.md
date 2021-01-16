@@ -7,8 +7,9 @@
     text-align:center;
 }
 </style>
-<div class="Intro"> Junyeong Ahn (21) </div>
 </head>   
+<div class="Intro"> Junyeong Ahn (21) </div>
+
     
 ### -I never slow down my pace :)
 #### -Studying to be a data scientist and a programmer
