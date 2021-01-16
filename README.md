@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   <br>
 </p>
 <br>
+
 <h2 align="center"> ⛏Subs⛏ </h2>
 <br>
 <br>
@@ -57,3 +58,14 @@ Here are some ideas to get you started:
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 </p>
 
+<h2 align="center"> 📞Contact📞 </h2>
+<br>
+<br>
+<p align="center">
+  <br>
+  <a href="https://www.instagram.com/ahn_jjun0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100010660358602"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EC%A4%80%EC%98%81-%EC%95%88-804571204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <br>
+</p>
+<br>
