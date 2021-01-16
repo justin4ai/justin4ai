@@ -1,4 +1,9 @@
-<div style = "font-size:40px;" "text-align:center"> Junyeong Ahn (21) </div>
+.Intro {
+    font-size:40px;
+    text-align:center;
+}
+
+<div class="Intro"> Junyeong Ahn (21) </div>
 
 ### -I never slow down my pace :)
 #### -Studying to be a data scientist and a programmer
