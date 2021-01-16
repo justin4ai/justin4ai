@@ -1,3 +1,5 @@
+<html>
+<head>
 <style>
 .Intro {
     font-size:40px;
@@ -5,7 +7,8 @@
 }
 </style>
 <div class="Intro"> Junyeong Ahn (21) </div>
-
+</head>   
+    
 ### -I never slow down my pace :)
 #### -Studying to be a data scientist and a programmer
 #### -Work mainly on AI, ML, Big Data, Web programming
