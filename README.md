@@ -1,10 +1,9 @@
 
 <h1 align="center">Junyeong Ahn(21)</h1>   
 
-<p align="center">Junyeong Ahn(21)</p>   
-    
-#### -Studying to be a data scientist and a programmer
-#### -Work mainly on AI, ML, Big Data, Web programming
+<p align="center">Hanyang University, Dept. of DataScience(20)   
+Semi-data scientist & web programmer   
+</p>   
 
 <!--
 **AhnJunYeong0319/AhnJunYeong0319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
