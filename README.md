@@ -1,6 +1,7 @@
 
-<p align="center">Junyeong Ahn(21)</p>   
+<h1 align="center">Junyeong Ahn(21)</h1>   
 
+<p align="center">Junyeong Ahn(21)</p>   
     
 #### -Studying to be a data scientist and a programmer
 #### -Work mainly on AI, ML, Big Data, Web programming
