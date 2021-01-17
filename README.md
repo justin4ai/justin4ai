@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.Intro {
-    font-size:40px;
-    text-align:center;
-}
-</style>
-</head>   
-    
-<body>
-<div class="Intro"> Junyeong Ahn (21) </div>   
+
+<div style="font-size:40px;" "text-align:center;"> Junyeong Ahn (21) </div>   
 
     
-### -I never slow down my pace :)
 #### -Studying to be a data scientist and a programmer
 #### -Work mainly on AI, ML, Big Data, Web programming
 
@@ -87,4 +75,4 @@ Here are some ideas to get you started:
   <br>
 </p>
 <br>
-</body>
+
