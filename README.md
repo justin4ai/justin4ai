@@ -1,8 +1,8 @@
 
-<h1 align="center">Junyeong Ahn(21)</h1>   
+<h1 align="center">Junyeong Ahn(안준영, 21)</h1>   
 
 <p align="center">Hanyang University, Dept. of DataScience(20)   
-<br>Semi-data scientist & web programmer   
+ <br>Semi-<strong>data scientist</strong> & web programmer   
 </p>   
 
 <!--
