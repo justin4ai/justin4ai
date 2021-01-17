@@ -1,5 +1,5 @@
 
-<span style="font-size:4em;">Junyeong Ahn (21)</span>
+<span style="font-size:40px;">Junyeong Ahn (21)</span>
 
     
 #### -Studying to be a data scientist and a programmer
