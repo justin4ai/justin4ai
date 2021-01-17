@@ -1,5 +1,5 @@
 
-<div style="font-size:40px;" "text-align:center;"> Junyeong Ahn (21) </div>   
+<div> <p style="font-size:40px;" "text-align:center;"> Junyeong Ahn (21) </p> </div>   
 
     
 #### -Studying to be a data scientist and a programmer
