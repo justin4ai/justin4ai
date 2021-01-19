@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 💻Main Languages💻 </h2>
 <br>
-<br>
 <p align="center">
   <br>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -54,7 +53,6 @@ Here are some ideas to get you started:
 
 <h2 align="center"> ⛏Subs⛏ </h2>
 <br>
-<br>
 <p align="center">
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
@@ -65,7 +63,6 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center"> 📞Contact📞 </h2>
-<br>
 <br>
 <p align="center">
   <br>
