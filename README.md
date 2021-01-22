@@ -86,5 +86,5 @@ Here are some ideas to get you started:
  <li>Calculus reviewing</li>
  <li>Differential Equation studying</li>
  <li>Paper review blog (git blog)</li>
- <li>Portfolio website</li>
- <li>ISLR reviewing</li>
+ <li>**Portfolio website**</li>
+ <li>**ISLR reviewing**</li>
