@@ -75,3 +75,8 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+<h2>To Do</h2>
+
+david c lay linear algebra
+Gilbert Strang linear algebra
+
