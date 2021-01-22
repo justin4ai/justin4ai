@@ -77,12 +77,14 @@ Here are some ideas to get you started:
 
 <h2>To Do</h2>
    
--Linear Algebra reviewing
-    -David C lay (recommended)
-    -[Gilber Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
--Calculus reviewing
--Differential Equation studying
-
--Paper review blog (git blog)
--Portfolio website
--ISLR reviewing
+<ol>
+ <li>Linear Algebra reviewing</li>
+ <ul>
+  <li>David C lay (recommended)</li>
+  <li><a href="https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1">Gilber Strang</a></li>
+ </ul>
+ <li>Calculus reviewing</li>
+ <li>Differential Equation studying</li>
+ <li>Paper review blog (git blog)</li>
+ <li>Portfolio website</li>
+ <li>ISLR reviewing</li>
