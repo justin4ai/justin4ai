@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+<!--
 <h2>To Do</h2>
    
 <ol>
@@ -88,3 +89,4 @@ Here are some ideas to get you started:
  <li>Paper review blog (git blog)</li>
  <li>**Portfolio website**</li>
  <li>**ISLR reviewing**</li>
+-->
