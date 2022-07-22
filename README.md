@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  Click the image below to warp to my velog!
- 
-<a href="https://velog.io/@hewas1230"><img src="https://images.velog.io/images/jay_/post/dcf7c78c-a924-4aa2-8e47-c23fc426a668/velog_logo.png"/></a>
+ <a href="https://velog.io/@hewas1230"><img src="https://images.velog.io/images/jay_/post/dcf7c78c-a924-4aa2-8e47-c23fc426a668/velog_logo.png"/></a>
 
 </p>
  
