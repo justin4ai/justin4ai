@@ -1,5 +1,5 @@
 
-<h1 align="center">Junyeong Ahn(안준영, 22 / 2021.03~2022.9 군대)</h1>   
+<h1 align="center">Junyeong Ahn(안준영, 22)</h1>   
 
 <p align="center">순수 한국인<br>🦁Hanyang University, Dept. of DataScience(1st - 20)   
  <br>Semi-<strong>data scientist</strong> & web programmer   
