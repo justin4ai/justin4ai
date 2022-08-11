@@ -42,12 +42,12 @@ Here are some ideas to get you started:
  
 <hr>   
 
-<h2 align="center"> 💻Main Languages💻 </h2>
+<h2 align="center"> 💻Main💻 </h2>
 <br>
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <!--<a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>-->
   <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
   
   <br>
@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+
+<!--
 <h2 align="center"> ⛏Subs⛏ </h2>
 <p align="center">
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
@@ -68,6 +70,7 @@ Here are some ideas to get you started:
   <br>
   <br>
 </p>
+-->
 
 <h2 align="center"> 📞Contact📞 </h2>
 <p align="center">
