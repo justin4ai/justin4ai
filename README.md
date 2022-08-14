@@ -1,8 +1,9 @@
 
 <h1 align="center">Junyeong Ahn(안준영, 22)</h1>   
 
-<p align="center">순수 한국인<br>🦁Hanyang University, Dept. of DataScience(1st - 20)   
- <br>Semi-<strong>data scientist</strong> / Algorithm enthusiast
+<p align="center"><br>🦁Hanyang University, Dept. of DataScience(1st - 20)   
+ <br>Semi-<strong>data scientist</strong> / Algorithm enthusiast<br>
+ Currently working on studying algorithm / data structure through LeetCode and Coursera
 </p>   
 
 <!--
