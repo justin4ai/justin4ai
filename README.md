@@ -2,8 +2,7 @@
 <h1 align="center">Junyeong Ahn(안준영, 22)</h1>   
 
 <p align="center"><br>🦁Hanyang University, Dept. of DataScience(1st - 20)   
- <br>Semi-<strong>data scientist</strong> / Algorithm enthusiast<br>
- Currently working on studying algorithm / data structure through LeetCode and Coursera
+ <br>data science & computer science enthusiast<br>
 </p>   
 
 <!--
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <strong>Click the image below to warp to my velog!<strong><br>
- <a href="https://velog.io/@hewas1230"><img src="https://images.velog.io/images/jay_/post/dcf7c78c-a924-4aa2-8e47-c23fc426a668/velog_logo.png" style="width:400px;height:230px;"></a>
+ <a href="https://velog.io/@hewas1230"><img src="https://images.velog.io/images/jay_/post/dcf7c78c-a924-4aa2-8e47-c23fc426a668/velog_logo.png" style="width:300px;height:180px;"></a>
 
 </p>
  
