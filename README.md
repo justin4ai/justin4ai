@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 </p>   
 -->
  
-<!-- 깃허브 뱃지!!!!!!!!!!!!!!!!!!!!!!!
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AhnJunYeong0319&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 
