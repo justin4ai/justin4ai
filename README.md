@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnJunYeong0319&hide=jupyter%20notebook&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnJunYeong0319&hide=jupyter%20notebook&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
  <strong>Click the image below to warp to my velog!<strong><br>
