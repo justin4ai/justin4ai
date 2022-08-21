@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p align="center">
  <strong>Click the image below to warp to my velog!<strong><br>
  <a href="https://velog.io/@hewas1230"><img src="https://images.velog.io/images/jay_/post/dcf7c78c-a924-4aa2-8e47-c23fc426a668/velog_logo.png" style="width:300px;height:180px;"></a>
-  
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnJunYeong0319&hide=jupyter%20notebook&layout=compact&langs_count=5"/></a>
 <!--
