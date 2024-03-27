@@ -13,9 +13,10 @@ Currently
 <br>
 <br>
 
+<strong>Research interest</strong> : Face swapping/editing, image generation and clinical data analysis
+
 I dedicated my life to developing AI that brings happiness and convenience to people.
 
-Please click the icons if you would like to learn more about me.
 
   <a href="https://velog.io/@hewas1230/posts/" target="_blank" style="display: inline-block; margin-right: 10px;"><img alt="Velog" src ="https://img.shields.io/badge/Velog-0AC18E.svg?&style=for-the-badge&logoColor=white" style="height: 90px;"/></a><a href="https://drive.google.com/file/d/1r-kPsj243P6ujiw8B5vXQglDAor_Exxp/view?usp=sharing" target="_blank" style="display: inline-block; margin-right: 10px;">
   <img alt="CV" src ="https://img.shields.io/badge/CV-F2CC38.svg?&style=for-the-badge&logoColor=white" style="height: 90px;"/></a>
