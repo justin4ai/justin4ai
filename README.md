@@ -5,20 +5,22 @@
 
 Currently
 
-· 3rd grade student of Dept. Datascience @<b>Hanyang University</b>
-
 · AI researcher @<b>dob Studio Inc</b>.
 
+· 3rd grade student of Dept. Datascience @<b>Hanyang University</b>
+
+
+
 
 <br>
 <br>
 
-<strong>Research interest</strong> : Face swapping/editing, image generation and clinical data analysis
+<strong>Research interest</strong> : Face swapping, talking face generation and clinical data analysis
 
 I dedicated my life to developing AI that brings happiness and convenience to people.
 
 
-  <a href="https://velog.io/@hewas1230/posts/" target="_blank" style="display: inline-block; margin-right: 10px;"><img alt="Velog" src ="https://img.shields.io/badge/Velog-0AC18E.svg?&style=for-the-badge&logoColor=white" style="height: 90px;"/></a><a href="https://drive.google.com/file/d/1r-kPsj243P6ujiw8B5vXQglDAor_Exxp/view?usp=sharing" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <a href="https://velog.io/@hewas1230/posts/" target="_blank" style="display: inline-block; margin-right: 10px;"><img alt="Velog" src ="https://img.shields.io/badge/Velog-0AC18E.svg?&style=for-the-badge&logoColor=white" style="height: 90px;"/></a><a href="https://drive.google.com/file/d/1JUP8mdpBAKqNKyJYGQw9LkSMMCpWjPbV/view?usp=sharing" target="_blank" style="display: inline-block; margin-right: 10px;">
   <img alt="CV" src ="https://img.shields.io/badge/CV-F2CC38.svg?&style=for-the-badge&logoColor=white" style="height: 90px;"/></a>
 
 
