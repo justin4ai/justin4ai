@@ -3,12 +3,10 @@
 
   <h1>✨Junyeong Ahn✨</h1>   
 
-Currently
 
+· 3rd grade student of Dept. Datascience @<b>Hanyang University.</b>
 
-· 3rd grade student of Dept. Datascience @<b>Hanyang University</b>
-
-· Research Intern of DAVIAN Lab. @<b>KAIST</b>.
+· Research Intern of DAVIAN Lab. @<b>KAIST AI</b>.
 
 
 
@@ -24,7 +22,7 @@ I dedicated my life to developing AI that brings happiness and convenience to pe
 
 
 
- <a href="https://drive.google.com/file/d/1SL_DBsProiCiVwtglCaLX_6ymkO_j1vz/view?usp=sharing" target="_blank" style="display: inline-block; margin-right: 10px;">
+ <a href="https://drive.google.com/file/d/1KWtjS699sGZUBdjZlvBz6vXaooIWQknq/view?usp=sharing" target="_blank" style="display: inline-block; margin-right: 10px;">
   <img alt="CV" src ="https://img.shields.io/badge/CV-F2CC38.svg?&style=for-the-badge&logoColor=white" style="height: 80px;"/></a><a href="https://www.linkedin.com/in/junyeong-ahn-804571204/" target="_blank" style="display: inline-block; margin-right: 10px;"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logoColor=white" style="height: 80px;"/></a>
 
 
