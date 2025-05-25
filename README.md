@@ -23,7 +23,7 @@ I dedicated my life to developing AI that brings happiness and convenience to pe
 
 
 
- <a href="https://drive.google.com/file/d/1_KCw5GQM5DM_xf7SsCpkJvRlVSvZmlEl/view?usp=sharing" target="_blank" style="display: inline-block; margin-right: 10px;">
+ <a href="https://drive.google.com/file/d/1TE70NGTCPr8IK9cLoZk93h4EBTEFxi_i/view?usp=sharing" target="_blank" style="display: inline-block; margin-right: 10px;">
   <img alt="CV" src ="https://img.shields.io/badge/CV-F2CC38.svg?&style=for-the-badge&logoColor=white" style="height: 80px;"/></a><a href="https://www.linkedin.com/in/junyeong-ahn-804571204/" target="_blank" style="display: inline-block; margin-right: 10px;"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logoColor=white" style="height: 80px;"/></a>
 
 
